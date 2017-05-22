@@ -1,4 +1,3 @@
-# Pratise
 # Hna_CouponView_record
 ### The UI_Controls that have been refered to are follow
 #### 1,UITableView
